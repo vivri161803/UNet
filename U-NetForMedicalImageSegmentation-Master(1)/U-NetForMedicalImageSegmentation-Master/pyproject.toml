@@ -9,7 +9,7 @@ dependencies = [
     "asttokens==3.0.0",
     "bids>=0.0",
     "build==1.2.2.post1",
-    "certifi==2025.4.26",
+    "certifi==2026.10.18",
     "charset-normalizer==3.4.2",
     "colorama==0.4.6",
     "comm==0.2.2",
